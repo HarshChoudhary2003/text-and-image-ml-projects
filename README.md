@@ -116,5 +116,7 @@ In addition, there are small **image-related ML experiments** using OpenCV (`cv2
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/YourUsername/text-image-ml-projects.git
+   
+   git clone(https://github.com/HarshChoudhary2003/text-and-image-ml-projects/tree/main)
+   git clone
    cd text-image-ml-projects
